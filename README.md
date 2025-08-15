@@ -127,6 +127,7 @@ The application uses SQLite with the following tables:
 ## Project Structure
 
 ```
+node_modules/
 src/
 ├── components/          # React components
 │   ├── Layout.tsx      # Main layout with navigation
